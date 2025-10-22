@@ -1,1 +1,1 @@
-js:(-apk-y;
+$js:C-Apk;c-
